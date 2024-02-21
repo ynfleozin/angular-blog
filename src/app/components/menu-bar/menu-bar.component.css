@@ -1,0 +1,19 @@
+.container-menu-bar ul{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.container-menu-bar ul li{
+  font-size: 15px;
+  margin-left: 40px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.container-menu-bar ul li:hover{
+  transform: scale(1.1);
+  transition: .3s;
+  border-bottom: solid 1px white;
+}
+
