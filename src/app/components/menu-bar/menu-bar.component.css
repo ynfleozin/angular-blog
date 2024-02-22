@@ -2,11 +2,11 @@
   display: flex;
   flex-direction: row;
   gap: 50px;
+  margin-top: 10px;
 }
 
 .container-menu-bar ul li{
   font-size: 15px;
-  margin-left: 40px;
   list-style: none;
   cursor: pointer;
 }
