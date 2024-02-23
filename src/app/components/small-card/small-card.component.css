@@ -34,3 +34,7 @@
 .container-small-card-separator{
   margin-top: 10px;
 }
+
+.container-small-card-separator hr{
+  border-color: black;
+}
